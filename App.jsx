@@ -8,7 +8,7 @@ function App() {
   const [songs, setSongs] = useState([
     { id: 101, title: "Symphony N40", artist: "Mozart", duration: 20 },
     { id: 102, title: "Toxicity", artist: "SOAD", duration: 30 },
-    { id: 103, title: "Yesterday", artist: "Betales", duration: 50 },
+    { id: 103, title: "Yesterday", artist: "Beatles", duration: 50 },
     { id: 104, title: "Hello", artist: "Adele", duration: 60 }
   ])
 
